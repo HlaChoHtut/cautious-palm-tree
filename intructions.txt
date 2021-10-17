@@ -1,3 +1,6 @@
 Instruction for deploying this site to the server
 --------------------------------------------------
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium provident labore distinctio deserunt iure earum repellat nulla dignissimos beatae, officiis optio debitis suscipit aperiam. Tempora hic sit quod veniam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente praesentium provident labore distinctio deserunt iure earum repellat nulla dignissimos beatae, officiis optio debitis suscipit aperiam. Tempora hic sit quod veniam.
+
+Troubleshooting
+---------------
